@@ -1,4 +1,4 @@
-Taller-de-Git
+Taller-de-Git(##Este es el cambio conflictivo)
 =============
 
 ##Actualizado por el Acero
